@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F2FD53A0-C0AE-E94F-E198-9A314E87D103}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ZombieEngine.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerEngin.cs" Line="69" Column="27" />
+      <File FileName="Assets/Scripts/ZombieEngine.cs" Line="137" Column="9" />
+      <File FileName="Assets/Scripts/CreateZombies.cs" />
+      <File FileName="Assets/Scripts/BulletMovment.cs" />
+      <File FileName="Assets/Scripts/SoundMenager.cs" />
+      <File FileName="Assets/Scripts/OpenScene.cs" />
+      <File FileName="Assets/Scripts/ZombieOpenScene.cs" />
+      <File FileName="Assets/Scripts/BulletOScene.cs" />
+      <File FileName="Assets/Scripts/OpenSceneSounds.cs" />
+      <File FileName="Assets/Scripts/SceneEngine.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Agent" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ZombieEngine.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="317cb142-5f7c-4fa4-a0c3-033e7ffb6eb8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
